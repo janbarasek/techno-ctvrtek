@@ -10,6 +10,7 @@ export default function Home() {
 
     return (
         <main>
+            <div style={{color:'red'}}>Appka bude zítra vypnutá.</div>
             <h1>Web o technickém čtvrtku</h1>
             <div>
                 Zadaný věk: {age}
